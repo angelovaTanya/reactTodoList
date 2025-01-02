@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 75%;
+}
+
+.completed {
+    background-color: green;
+}
+
+.notCompleted {
+    background-color: red;
+}
+
